@@ -1,0 +1,5 @@
+Product_ID | Product_Name | Quantity | Price
+2 | Creion | 5 | 19.95
+4 | Ghiozdan | 1 | 39.99
+5 | Scaun | 2 | 159.98
+Total price: 219.92
