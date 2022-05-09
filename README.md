@@ -8,5 +8,7 @@ Clients can order products from the warehouse. The user (similar to a cashier) m
 
 All the information is taken from or updated into a MySql database. The receipt will be printed into a "bill.txt" file in the project directory.
 
+A detailed JavaDoc is available by accessing the file javaDoc/index.html.
+
 More information and details can be found in the documentation.
 
